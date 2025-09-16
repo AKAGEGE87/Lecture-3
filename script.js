@@ -7,7 +7,7 @@ const frends = [
   { firstName: "David", age: 17, ticket: "has ticket" },
   { firstName: "Eve", age: 29, ticket: "no ticket" },
   { firstName: "Frank", age: 31, ticket: "has ticket" },
-  { firstName: "Grace", age: 33, ticket: "no ticket" },
+  { firstName: "Grace", age: 33, ticket: "has ticket" },
   { firstName: "Hank", age: 16, ticket: "has ticket" }
 ];
 
